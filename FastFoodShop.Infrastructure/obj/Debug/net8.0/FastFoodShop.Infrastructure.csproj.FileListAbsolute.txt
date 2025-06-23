@@ -1,0 +1,5 @@
+D:\back end\FastFoodWeb\FastFoodShop.Infrastructure\obj\Debug\net8.0\FastFoodShop.Infrastructure.csproj.AssemblyReference.cache
+D:\back end\FastFoodWeb\FastFoodShop.Infrastructure\obj\Debug\net8.0\FastFoodShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\back end\FastFoodWeb\FastFoodShop.Infrastructure\obj\Debug\net8.0\FastFoodShop.Infrastructure.AssemblyInfoInputs.cache
+D:\back end\FastFoodWeb\FastFoodShop.Infrastructure\obj\Debug\net8.0\FastFoodShop.Infrastructure.AssemblyInfo.cs
+D:\back end\FastFoodWeb\FastFoodShop.Infrastructure\obj\Debug\net8.0\FastFoodShop.Infrastructure.csproj.CoreCompileInputs.cache

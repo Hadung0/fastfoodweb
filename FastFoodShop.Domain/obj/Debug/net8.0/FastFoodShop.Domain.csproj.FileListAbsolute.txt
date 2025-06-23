@@ -1,0 +1,14 @@
+D:\back end\FastFoodWeb\FastFoodShop.Domain\bin\Debug\net8.0\FastFoodShop.Domain.deps.json
+D:\back end\FastFoodWeb\FastFoodShop.Domain\bin\Debug\net8.0\FastFoodShop.Domain.runtimeconfig.json
+D:\back end\FastFoodWeb\FastFoodShop.Domain\bin\Debug\net8.0\FastFoodShop.Domain.dll
+D:\back end\FastFoodWeb\FastFoodShop.Domain\bin\Debug\net8.0\FastFoodShop.Domain.pdb
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\FastFoodShop.Domain.csproj.AssemblyReference.cache
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\FastFoodShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\FastFoodShop.Domain.AssemblyInfoInputs.cache
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\FastFoodShop.Domain.AssemblyInfo.cs
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\FastFoodShop.Domain.csproj.CoreCompileInputs.cache
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\FastFoodShop.Domain.dll
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\refint\FastFoodShop.Domain.dll
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\FastFoodShop.Domain.pdb
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\FastFoodShop.Domain.genruntimeconfig.cache
+D:\back end\FastFoodWeb\FastFoodShop.Domain\obj\Debug\net8.0\ref\FastFoodShop.Domain.dll
